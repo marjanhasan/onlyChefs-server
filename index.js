@@ -7,7 +7,11 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send(home);
 });
-
+app.get("/cuisine/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const cuisine = home.cuisine.find((n) => parseInt(n.id) === id);
+  res.send(cuisine);
+});
 app.listen(port, () => {
   console.log(`onlyChefs API is running on post: ${port}`);
 });
