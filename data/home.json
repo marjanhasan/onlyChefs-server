@@ -51,7 +51,7 @@
     },
     {
       "id": 2,
-      "chef_img": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27060,msid-94767928/did-you-notice-british-chef-gordon-ramsays-charming-faux-pas-details-here.jpg",
+      "chef_img": "https://www.outlookindia.com/outlooktraveller/resizer.php?src=https://www.outlookindia.com/outlooktraveller/public/uploads/files/2015/03/091015143231-JAMIE.ITALIAN.0300.jpg&w=500&h=400",
       "chef_name": "Jamie Oliver",
       "years_of_experience": 25,
       "num_recipes": 200,
@@ -98,7 +98,7 @@
     },
     {
       "id": 3,
-      "chef_img": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27060,msid-94767928/did-you-notice-british-chef-gordon-ramsays-charming-faux-pas-details-here.jpg",
+      "chef_img": "https://i.guim.co.uk/img/media/93ec59cc693ccea7486d1687d3ddd0783a24a8e2/0_1350_3840_2303/500.jpg?quality=85&auto=format&fit=max&s=1bd57e0bde1ef3f0557561202e311db7",
       "chef_name": "Nigella Lawson",
       "years_of_experience": 20,
       "num_recipes": 100,
@@ -151,7 +151,7 @@
     },
     {
       "id": 4,
-      "chef_img": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27060,msid-94767928/did-you-notice-british-chef-gordon-ramsays-charming-faux-pas-details-here.jpg",
+      "chef_img": "https://i.guim.co.uk/img/media/658a9b252dc5cfcd1a6f576a15004904ed109326/0_149_4173_2504/500.jpg?quality=85&auto=format&fit=max&s=52f1f9c80a50e4a7b05cb01931f73a5e",
       "chef_name": "Mary Berry",
       "years_of_experience": 50,
       "num_recipes": 300,
@@ -192,7 +192,7 @@
     },
     {
       "id": 5,
-      "chef_img": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27060,msid-94767928/did-you-notice-british-chef-gordon-ramsays-charming-faux-pas-details-here.jpg",
+      "chef_img": "https://i.guim.co.uk/img/media/f24f0e838d578dc13779272300b37f034dcab91c/0_3_2500_1500/500.jpg?quality=85&auto=format&fit=max&s=952a050a75bcb0d055c31806e0a4cf6d",
       "chef_name": "Gordon Ramsay",
       "years_of_experience": 35,
       "num_recipes": 150,
@@ -239,12 +239,12 @@
     },
     {
       "id": 6,
-      "chef_img": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27060,msid-94767928/did-you-notice-british-chef-gordon-ramsays-charming-faux-pas-details-here.jpg",
-      "chef_name": "Jamie Oliver",
+      "chef_img": "https://uefconnect.uef.fi/wp-content/uploads/2021/11/5c31b6c3a5f7cfdb552f69f4e62a664e_profile_file-500x500.jpg",
+      "chef_name": "John Butlar",
       "years_of_experience": 25,
       "num_recipes": 100,
       "num_likes": "800K",
-      "bio": "Jamie Oliver is an English chef and restaurateur. He is known for his television shows, cookbooks, and efforts to promote healthy eating. He has also opened several successful restaurants around the world.",
+      "bio": "John Butlar is an English chef and restaurateur. He is known for his television shows, cookbooks, and efforts to promote healthy eating. He has also opened several successful restaurants around the world.",
       "recipes": [
         {
           "id": 1,
@@ -282,17 +282,17 @@
   "cuisine": [
     {
       "id": 1,
-      "photo_url": "https://keviniscooking.com/wp-content/uploads/2019/06/Individual-Beef-Wellingtons-square-500x500.jpg",
+      "photo_url": "https://static.toiimg.com/thumb/msid-78392259/78392259.jpg?width=500&resizemode=4",
       "title": "Japanese"
     },
     {
       "id": 2,
-      "photo_url": "https://keviniscooking.com/wp-content/uploads/2019/06/Individual-Beef-Wellingtons-square-500x500.jpg",
+      "photo_url": "https://omnivorescookbook.com/wp-content/uploads/2020/07/200702_Thai-Basil-Chicken_550-500x500.jpg",
       "title": "Thai"
     },
     {
       "id": 3,
-      "photo_url": "https://keviniscooking.com/wp-content/uploads/2019/06/Individual-Beef-Wellingtons-square-500x500.jpg",
+      "photo_url": "https://www.terramarimports.com/cdn/shop/products/Italian-Arrabbiata-Pasta-Sauce_500x500.jpg?v=1674065015",
       "title": "Italian"
     }
   ]
